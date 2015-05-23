@@ -1,8 +1,14 @@
 # The container includes:
 #
+# PARENT:
 # - Git
 # - Vim
 # - Node
+# - MySQL Client
+# - PostgreSQL Client
+# - MongoDB
+#
+# THIS:
 # - Apache2 with root
 
 FROM azukiapp/node
