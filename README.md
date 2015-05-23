@@ -7,7 +7,7 @@ Versions (tags)
 ---
 
 <versions>
-- [`latest`, `2.4`, `2`](https://github.com/azukiapp/docker-apache2/blob/master/2.4/Dockerfile)
+- [`latest`, `2`, `2.4`, `2.4.7`](https://github.com/azukiapp/docker-apache2/blob/master/2.4/Dockerfile)
 </versions>
 
 Image content:
