@@ -1,4 +1,4 @@
-# The container includes:
+# The image includes:
 #
 # PARENT:
 # - Git
